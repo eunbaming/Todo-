@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Jua&family=Nanum+Brush+Script&family=Poor+Story&display=swap');
+
+body {
+  background: url(images/background.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Do Hyeon', sans-serif;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: rgb(240, 139, 237);
+}
+.container {
+  /* border: 1px solid red; */
+  background-color: #fff;
+  height: 100%;
+  min-height: 100vh;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  max-width: 800px;
+  border-top: 10px solid rgb(250, 212, 249);
+  border-bottom: 10px solid rgb(250, 212, 249);
+}
+.container h1 {
+  margin-top: 20px;
+  color: rgb(240, 139, 237);
+}
+.input-area {
+  position: relative;
+}
+#task-input {
+  width: 80%;
+  border: 1px solid rgb(250, 212, 249);
+  padding: 5px;
+}
+#add-btn {
+  border: 1px solid rgb(250, 212, 249);
+  background-color: rgb(250, 212, 249);
+  color: #fff;
+  width: 2em;
+  padding: 5px;;
+}
+#add-btn:hover {
+  background-color: #fff;
+  color: rgb(250, 212, 249);
+}
+.task-area {
+  border: 1px solid rgb(250, 212, 249);
+  margin-top: 1em;
+}
+.task-tabs {
+  display: flex;
+  border-bottom: 1px solid rgb(250, 212, 249);
+  color: rgb(240, 139, 237);
+  position: relative;
+}
+.task-tabs a {
+  display: block;
+  padding: 1em;
+}
+.task-tabs a:hover {
+  color: rgb(250, 212, 249);
+}
+#under-line {
+  position: absolute;
+  width: 47px;
+  top: 52px;
+  left: 0;
+  background-color: pink;
+  height: 4px;
+  padding: 0;
+  transition: 0.5s;
+}
+#all {}
+#ongoing {}
+#done {}
+#task-board {}
+.task {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.task span {
+  padding: 1em;
+}
+.task div {
+  display: flex; /*이거 물어보기*/
+}
+.task div button {
+  border: none;
+  background-color: #fff;
+  height: 100%;
+  width: 5em;
+  /* margin: 0; */
+}
+.fa-check {
+  color: rgb(47, 206, 255);
+}
+.fa-trash-can {
+  color: red;
+}
+.fa-rotate-left {
+  color: blueviolet;
+}
+.task-done {
+  background-color: lightgray;
+  text-decoration: line-through;
+}

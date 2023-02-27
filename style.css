@@ -12,7 +12,6 @@ a {
   color: rgb(240, 139, 237);
 }
 .container {
-  /* border: 1px solid red; */
   background-color: #fff;
   height: 100%;
   min-height: 100vh;
@@ -21,9 +20,10 @@ a {
   border-top: 10px solid rgb(250, 212, 249);
   border-bottom: 10px solid rgb(250, 212, 249);
 }
-.container h1 {
+#loading {
   margin-top: 20px;
   color: rgb(240, 139, 237);
+  cursor: pointer;
 }
 .input-area {
   position: relative;
@@ -71,10 +71,6 @@ a {
   padding: 0;
   transition: 0.5s;
 }
-#all {}
-#ongoing {}
-#done {}
-#task-board {}
 .task {
   display: flex;
   justify-content: space-between;
@@ -84,14 +80,13 @@ a {
   padding: 1em;
 }
 .task div {
-  display: flex; /*이거 물어보기*/
+  display: flex;
 }
 .task div button {
   border: none;
   background-color: #fff;
   height: 100%;
   width: 5em;
-  /* margin: 0; */
 }
 .fa-check {
   color: rgb(47, 206, 255);

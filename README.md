@@ -47,9 +47,9 @@ if (event) {
 
 + 아이템의 상태에 따라 각각의 tab에 필터링되도록 개발
 
-<a href="#"><img src="https://user-images.githubusercontent.com/110072947/221764150-cdcb6581-7fd1-471e-aeaf-237253a9b20a.png" width="250"></a>
-<a href="#"><img src="https://user-images.githubusercontent.com/110072947/221764154-ce768922-586d-4209-9125-aa8afce4dd7a.png" width="250"></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/110072947/221764159-129e64e2-1acb-42ee-8b54-74861c506682.png" width="250"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/110072947/221764154-ce768922-586d-4209-9125-aa8afce4dd7a.png" width="250"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/110072947/221764150-cdcb6581-7fd1-471e-aeaf-237253a9b20a.png" width="250"></a>
 
 <br/>
 
@@ -57,11 +57,11 @@ if (event) {
 
 [Web ver.]
 
-![Todo-app](https://user-images.githubusercontent.com/110072947/221764621-3257da83-52fd-42b7-8774-a97456fe0d2c.png)
+![Todo-app](https://user-images.githubusercontent.com/110072947/221764631-a33feac8-2d2c-43b5-80d8-84fa4693a6f6.png)
 
 [Mobile ver.]
 
-![Todo-app](https://user-images.githubusercontent.com/110072947/221764631-a33feac8-2d2c-43b5-80d8-84fa4693a6f6.png)
+![Todo-app](https://user-images.githubusercontent.com/110072947/221764621-3257da83-52fd-42b7-8774-a97456fe0d2c.png)
 
 <br/>
 <br/>

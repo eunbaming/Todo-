@@ -1,7 +1,6 @@
 # Todo 앱
 
-
-Javascipt로 아이템 추가와 삭제, 필터링이 가능한 반응형 웹페이지 구축
+<br/>
 
 ![Todo-app](https://user-images.githubusercontent.com/110072947/221762117-884feca1-5d95-4506-9968-605f144f1bc8.png)
 
@@ -28,7 +27,7 @@ Javascipt를 활용하여 아이템 생성, 삭제, 상태표시 등의 기술�
 
 ### Advanced Feature
 
-+ 아이템들의 상태에 따른 슬라이드바 개발
++ 아이템들의 상태에 따른 슬라이드바현구현
 
 ![Todo-app](https://user-images.githubusercontent.com/110072947/221763368-5a489171-26e5-4e8e-8a47-0bb323ae0401.png)
 
@@ -45,7 +44,7 @@ if (event) {
 
 <br/>
 
-+ 아이템의 상태에 따라 각각의 tab에 필터링되도록 개발
++ 아이템의 상태에 따라 각각의 tab에 필터링되도록 기능 구현
 
 <a href="#"><img src="https://user-images.githubusercontent.com/110072947/221764159-129e64e2-1acb-42ee-8b54-74861c506682.png" width="250"></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/110072947/221764154-ce768922-586d-4209-9125-aa8afce4dd7a.png" width="250"></a>
